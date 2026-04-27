@@ -67,4 +67,9 @@ GitHub Pages 静态部署
 移动端 Web 开发
 交互与状态管理实现
 
+新增：
+本项目最初为 localStorage 版 TodoList PWA。
+后续追加 Spring Boot 后端 API，并连接 MySQL 数据库，实现任务数据的持久化保存。
+前端通过 fetch 调用 REST API，实现任务的查询、新增、更新、删除和排序。
+
 欢迎交流与改进建议。
